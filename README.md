@@ -1,4 +1,4 @@
-# Current Version - 0.1a
+# Current Version - 0.0.1a
 
 # IMPORTANT - This project is coming soon (June/July 2017).
 
