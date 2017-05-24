@@ -40,7 +40,7 @@ When importing/creating a new landscape, simply select 'M_DLM_Inst' as your land
 ## Tutorials
 Following tutorials will be coming soon!
 - Switch between texturing types (Auto, Hand, Weighted or Splat)
-- Mixing texturing types
+- Mixing Texturing Method types
 - Creating new Material Functions & Layers
 - Importing a Tiled world and applying the DLM
 - How to texture different Biomes
