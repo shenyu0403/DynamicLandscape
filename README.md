@@ -18,7 +18,7 @@ Texturing:
 - Standard Macro Variation
 - Distance Based Tessellation
 - Tri-Planar Texturing
-- Splatmap Texturing
+- Splatmap Support
 - Global Normal Support
 - Height based Texture Blending
 
