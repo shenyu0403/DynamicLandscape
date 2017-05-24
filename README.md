@@ -1,4 +1,4 @@
-## Current Version - 0.0.1a
+## Current Version - 0.1.0-alpha
 
 # IMPORTANT - This project is coming soon (June/July 2017).
 
@@ -20,12 +20,12 @@ Texturing:
 - Tri-Planar Texturing
 - Splatmap Texturing
 - Global Normal Support
+- Height based Texture Blending
 
 ## Future/Intended Features:
 - Multi Splatmap Support
 - Biome Texturing
 - Auto Slope/Height based Texturing
-- Height based Texture Blending
 
 Grass Tool:
 - Splat/Noise Map based Grass Variation/Grouping
