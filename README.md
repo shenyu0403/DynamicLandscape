@@ -1,6 +1,6 @@
 # Current Version - 0.1
 
-# IMPORTANT - This project is coming soon and will hopefully be available by June 2017.
+# IMPORTANT - This project is coming soon (May 2017).
 
 # DynamicLandscapeMaterial
 DynamicLandscapeMaterial (DLM) is a project with the intention of creating a multi-method approach to texturing landscapes within UE4. 
@@ -36,7 +36,7 @@ When importing/creating a new landscape, simply select 'M_DLM_Inst' as your land
 
 # Tutorials
 Following tutorials will be coming soon!
-- Switch between texturing types "Auto, Hand, Weighted or Splat"
+- Switch between texturing types (Auto, Hand, Weighted or Splat)
 - Mixing texturing types
 - Creating new Material Functions & Layers
 - Importing a Tiled world and applying the DLM
