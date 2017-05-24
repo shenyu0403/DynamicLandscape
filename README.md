@@ -1,4 +1,4 @@
-# Current Version - 0.0.1a
+## Current Version - 0.0.1a
 
 # IMPORTANT - This project is coming soon (June/July 2017).
 
@@ -11,7 +11,7 @@ DLM was created for the sole purpose of providing users with a multi method text
 This material was creating using methods provided by a lot of people from various places around the internet including Epic Games, Unreal Forums and random Tutorial blogs.
 Every technique used here can be found online somewhere with a bit of dedicated googling. This is why it is free!
 
-# Current Features
+## Current Features
 
 Texturing:
 - 16 Active Layers
@@ -21,7 +21,7 @@ Texturing:
 - Splatmap Texturing
 - Global Normal Support
 
-# Future/Intended Features:
+## Future/Intended Features:
 - Multi Splatmap Support
 - Biome Texturing
 - Auto Slope/Height based Texturing
@@ -37,7 +37,7 @@ Example: 'C:/../../ProjectName/Content/DynamicLandscape'
 # How to Use
 When importing/creating a new landscape, simply select 'M_DLM_Inst' as your landscape material.
 
-# Tutorials
+## Tutorials
 Following tutorials will be coming soon!
 - Switch between texturing types (Auto, Hand, Weighted or Splat)
 - Mixing texturing types
@@ -46,5 +46,5 @@ Following tutorials will be coming soon!
 - How to texture different Biomes
 - Plus more as they come up...
 
-# License
+## License
 MIT License - see LICENSE for more info.
