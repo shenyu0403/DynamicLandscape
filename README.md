@@ -11,18 +11,21 @@ DLM was created for the sole purpose of providing users with a multi method text
 This material was creating using methods provided by a lot of people from various places around the internet including Epic Games, Unreal Forums and random Tutorial blogs.
 Every technique used here can be found online somewhere with a bit of dedicated googling. This is why it is free!
 
-# Main Features
+# Current Features
 
 Texturing:
-- Height based Texture Blending
 - 16 Active Layers
-- Multi Splatmap Support
-- Global Normal Support
-- Biome Texturing
-- Auto Slope/Height based Texturing
+- Standard Macro Variation
 - Distance Based Tessellation
 - Tri-Planar Texturing
-- Standard Macro Variation
+- Splatmap Texturing
+- Global Normal Support
+
+# Future/Intended Features:
+- Multi Splatmap Support
+- Biome Texturing
+- Auto Slope/Height based Texturing
+- Height based Texture Blending
 
 Grass Tool:
 - Splat/Noise Map based Grass Variation/Grouping
