@@ -14,15 +14,19 @@ Every technique used here can be found online somewhere with a bit of dedicated 
 ## Current Features
 
 Texturing:
-- 16 Active Layers
+- 4-8 Active Layers
 - Standard Macro Variation
 - Distance Based Tessellation
+- Distance Based Parallax Occlusion Mapping
+- Distance Based Detail Mapping
 - Tri-Planar Texturing
 - Splatmap Support
 - Global Normal Support
 - Height based Texture Blending
 
 ## Future/Intended Features:
+
+Texturing:
 - Multi Splatmap Support
 - Biome Texturing
 - Auto Slope/Height based Texturing
@@ -38,13 +42,7 @@ Example: 'C:/../../ProjectName/Content/DynamicLandscape'
 When importing/creating a new landscape, simply select 'M_DLM_Inst' as your landscape material.
 
 ## Tutorials
-Following tutorials will be coming soon!
-- Switch between texturing types (Auto, Hand, Weighted or Splat)
-- Mixing Texturing Method types
-- Creating new Material Functions & Layers
-- Importing a Tiled world and applying the DLM
-- How to texture different Biomes
-- Plus more as they come up...
+Tutorials will be coming soon!
 
 ## License
 MIT License - see LICENSE for more info.
