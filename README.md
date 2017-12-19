@@ -1,6 +1,6 @@
 ## Current Version - 0.1.0-alpha
 
-# IMPORTANT - This project is coming soon (June/July 2017).
+# IMPORTANT - This project is coming soon.
 
 # DynamicLandscapeMaterial
 DynamicLandscapeMaterial (DLM) is a project with the intention of creating a multi-method approach to texturing landscapes within UE4. 
